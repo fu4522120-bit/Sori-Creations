@@ -1,0 +1,6 @@
+{
+  "name": "Sori Creations - Luxury Handmade Ribbon Flowers & Gifts",
+  "description": "Exclusive handmade satin ribbon flower bouquets, forever roses, money bouquets, and bespoke luxury gifts by Sori Creations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
